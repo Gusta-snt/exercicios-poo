@@ -1,0 +1,11 @@
+Aluno: Gustavo Ferreira dos Santos
+Matrícula: 202201628
+
+- Exercício 1:
+
+1. "Objeto"
+2. "class"
+3. "new"
+4. "null"
+5. "this"
+6. "sobrecarga de métodos"

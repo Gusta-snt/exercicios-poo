@@ -1,0 +1,10 @@
+Aluno: Gustavo Ferreira dos Santos
+Matrícula: 202201628
+
+Ex1: 
+
+1. Dependência
+2. Losango preenchido
+3. Losango sem preenchimento
+4. Agregação
+5. Especialização
